@@ -1,0 +1,27 @@
+#experience {
+    height: calc(100vh - 6rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.experiencepage{
+display: inline-flex;
+}
+.experiencecontent{
+    position: relative;
+    top: 5rem;
+    font-size: larger;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    left: 3rem;
+}
+.designation{
+color: turquoise;
+}
+.year{
+    color: tomato;
+}
+.intern{
+    color: lawngreen;
+}

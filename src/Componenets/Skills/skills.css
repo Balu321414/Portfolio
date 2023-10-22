@@ -1,0 +1,18 @@
+#skills {
+    height: calc(100vh - 6rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.skill{
+    position: relative;
+   display: flex;
+    left: 2rem;
+    top: 5rem;
+    height: 50vh;
+    width: 35rem;
+}
+.skillspage{
+    display: inline-flex;
+}
