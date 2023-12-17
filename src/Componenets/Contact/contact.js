@@ -13,7 +13,7 @@ const Contact = () => {
                 <div className="contactcontent">
                     <div>
                         <h2>Email : Krishna3214aa@gmail.com</h2><br />
-                        <h2>Mobile No : +91 9606532362 </h2><br />
+                        <h2>Mobile No : +91 9606532362</h2><br />
                     </div>
                     <div className="btncv"><a download href={resume}><span className="cv">Dowload CV</span></a></div>
                 </div>
