@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: black;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.row1{
+    justify-content: center;
+    display: flex;
+    margin-top: 1rem;
+}
+.row2 {
+    position: relative;
+    display: flex;
+    left: 2rem;
+    top: 5rem;
+    height: 50vh;
+    width: 30rem;
+}

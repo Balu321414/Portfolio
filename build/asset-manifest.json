@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f34c55c1.css",
+    "main.js": "/static/js/main.fb682f22.js",
+    "static/media/Balakrishna_resume.pdf": "/static/media/Balakrishna_resume.8f94786c15b9a2214ab1.pdf",
+    "static/media/about_logo.jpg": "/static/media/about_logo.35fe1e246ebaa0e53ecb.jpg",
+    "static/media/Tic-Tac-Toe_logo.jpg": "/static/media/Tic-Tac-Toe_logo.b19d2e3444629e503c2f.jpg",
+    "static/media/exp_logo.jpg": "/static/media/exp_logo.0d97554b1ef420883b41.jpg",
+    "static/media/portfolio_logo.jpg": "/static/media/portfolio_logo.b9cdaaa8aa30e8f47795.jpg",
+    "static/media/skills2.jpg": "/static/media/skills2.67cee1a967c9d60fb9c4.jpg",
+    "static/media/age_logo.jpg": "/static/media/age_logo.e061fff95fdc8acee2e2.jpg",
+    "static/media/skills1.jpg": "/static/media/skills1.59913eedd9b7eb6c5696.jpg",
+    "static/media/bg_logo.jpg": "/static/media/bg_logo.075d020e34c62c1923a3.jpg",
+    "static/media/contactForm_logo.jpg": "/static/media/contactForm_logo.3cc15b683cd4fbb15b61.jpg",
+    "static/media/chat_logo.jpg": "/static/media/chat_logo.9d968de975aa716f5ce0.jpg",
+    "static/media/waether_logo.jpg": "/static/media/waether_logo.23bf3cb8920cd7f1f7e4.jpg",
+    "static/media/fb.jpg": "/static/media/fb.3e39d8b7fc911c86a39b.jpg",
+    "static/media/contact_logo.jpg": "/static/media/contact_logo.83989fe7a1ad2c090987.jpg",
+    "static/media/menu.jpg": "/static/media/menu.aa23f725674505796780.jpg",
+    "static/media/education_logo.jpg": "/static/media/education_logo.8df7985d298ea0c2ea67.jpg",
+    "index.html": "/index.html",
+    "main.f34c55c1.css.map": "/static/css/main.f34c55c1.css.map",
+    "main.fb682f22.js.map": "/static/js/main.fb682f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34c55c1.css",
+    "static/js/main.fb682f22.js"
+  ]
+}
