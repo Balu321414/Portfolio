@@ -1,0 +1,21 @@
+#education {
+    height: calc(100vh - 6rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.educationpage{
+    display: inline-flex;
+   
+}
+.educationcontent{
+    position: relative;
+    font-size: larger;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    top: 6rem;
+}
+.grade{
+    color: limegreen;
+}

@@ -1,0 +1,62 @@
+#about {
+    height: calc(100vh - 6rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.row21 {
+    position: relative;
+    display: flex;
+    left: 2rem;
+    top: 4rem;
+    height: 50vh;
+    width: 23rem;
+    border: 1px solid crimson;
+    box-shadow: 0 0 3rem 0 crimson;
+}   
+
+.aboutcontent {
+    position: relative;
+    display: inline-block;
+    left: 7rem;
+    top: 4rem;
+    height: 50vh;
+    width: 44rem;
+}
+
+.abutpage {
+    display: inline-flex;
+}
+.paracontent {
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+}
+.btn {
+    color: white;
+    border-radius:1rem 0rem;
+    background: crimson;
+    text-align: center;
+    font-weight: 300;
+    width: fit-content;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.personalinfo{
+    font-size: medium;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+   color: coral;
+}
+.info{
+    color: lightgoldenrodyellow;
+    font-size: medium;
+    font-weight: 300;
+}
