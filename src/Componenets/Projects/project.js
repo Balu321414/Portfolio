@@ -12,22 +12,22 @@ const Project = () => {
         <section id="project">
             <h1 className="row1"> <span id="aa">M</span>y Work</h1>
             <div className="ourservice">
-                <div class="service"> <img src={portfolio} />
+                <div class="service"> <img src={portfolio} alt="portfolio icon"/>
                     <h3 className="projectname">Portfolio</h3>
                 </div>
-                <div class="service"> <img src={contacForm} />
+                <div class="service"> <img src={contacForm} alt="contact icon"/>
                     <h3 className="projectname">Contact Form</h3>
                 </div>
-                <div class="service"> <img src={ageCalculator} />
+                <div class="service"> <img src={ageCalculator} alt="age icon" />
                     <h3 className="projectname">Age Calculator</h3>
                 </div>
-                <div class="service"> <img src={weatherApp} />
+                <div class="service"> <img src={weatherApp} alt="weather icon" />
                     <h3 className="projectname">weather App</h3>
                 </div>
-                <div class="service"> <img src={tictactoeApp} />
+                <div class="service"> <img src={tictactoeApp} alt="TICTACTOE icon" />
                     <h3 className="projectname">Tic Tac Toe Game</h3>
                 </div>
-                <div class="service"><img src={chatApp} />
+                <div class="service"><img src={chatApp} alt="chat app icon"/>
                 <h3 className="projectname">Chat App</h3>
                 </div>
             </div>

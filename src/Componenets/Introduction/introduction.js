@@ -1,8 +1,6 @@
 import React from "react";
 import './introduction.css';
 import bg from '../../assects/bg_logo.jpg';
-import fb from '../../assects/fb.jpg'
-
 
 const Introduction = () => {
     return (

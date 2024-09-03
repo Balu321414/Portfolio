@@ -8,7 +8,7 @@ const Navbar = () => {
 
     return (
         <nav className="navbar">
-        <marquee width="100%" direction="right"><h1><span id="aa">D</span>EVELOPER</h1></marquee>
+       <div className="scrolling-text">Some text here</div>
             <div className="desktopMenu" style={{ display: 'flex' }}>
                 <Link activeClass='active' to='introduction' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem">Home</Link>
                 <Link activeClass='active' to='about' spy={true} smooth={true} offset={-100} duration={500} className="desktopMenuListItem">About</Link>

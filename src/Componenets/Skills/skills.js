@@ -19,7 +19,7 @@ const Skills = () =>{
                {
                 firstPercentageArray&&firstPercentageArray.map((item,index)=>{
                     return(
-                    <div style={{backgroundColor:'white',height: 10,borderRadius:'5px',width:'25rem',marginTop:index==0?60:75}}>
+                    <div style={{backgroundColor:'white',height: 10,borderRadius:'5px',width:'25rem',marginTop:index===0?60:75}}>
                     <div style={{backgroundColor:'green',height: 10,borderRadius:'5px',width:`${item}`,paddingLeft:`${item}`}}><p style={{paddingTop:'10px'}}>{item}</p></div>
                     </div>
                 )})
@@ -32,7 +32,7 @@ const Skills = () =>{
                {
                 secondPercentageArray&&secondPercentageArray.map((item,index)=>{
                     return(
-                    <div style={{backgroundColor:'white',height: 10,borderRadius:'5px',width:'25rem',marginTop:index==0?60:75}}>
+                    <div style={{backgroundColor:'white',height: 10,borderRadius:'5px',width:'25rem',marginTop:index===0?60:75}}>
                     <div style={{backgroundColor:'green',height: 10,borderRadius:'5px',width:`${item}`,paddingLeft:`${item}`}}><p style={{paddingTop:'10px'}}>{item}</p></div>
                     </div>
                 )})
